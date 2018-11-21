@@ -16,6 +16,8 @@ namespace watch
         {
             
             InitializeComponent();
+            label1.Text = DateTime.Now.ToLongTimeString();
+            //Visible = false;
             timer1.Start();
         }
 
