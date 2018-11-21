@@ -1,0 +1,10 @@
+c:\users\артём\documents\visual studio 2017\Projects\watch\watch\bin\Debug\watch.exe.config
+c:\users\артём\documents\visual studio 2017\Projects\watch\watch\bin\Debug\watch.exe
+c:\users\артём\documents\visual studio 2017\Projects\watch\watch\bin\Debug\watch.pdb
+c:\users\артём\documents\visual studio 2017\Projects\watch\watch\obj\Debug\watch.csprojResolveAssemblyReference.cache
+c:\users\артём\documents\visual studio 2017\Projects\watch\watch\obj\Debug\watch.Form1.resources
+c:\users\артём\documents\visual studio 2017\Projects\watch\watch\obj\Debug\watch.Properties.Resources.resources
+c:\users\артём\documents\visual studio 2017\Projects\watch\watch\obj\Debug\watch.csproj.GenerateResource.Cache
+c:\users\артём\documents\visual studio 2017\Projects\watch\watch\obj\Debug\watch.csproj.CoreCompileInputs.cache
+c:\users\артём\documents\visual studio 2017\Projects\watch\watch\obj\Debug\watch.exe
+c:\users\артём\documents\visual studio 2017\Projects\watch\watch\obj\Debug\watch.pdb
